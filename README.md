@@ -1,4 +1,5 @@
 # Parse XML
+## using sonar XSD
 XML parsing tool for IAR on git
 This script is used to parse IAR code coverage xml report into sonar generic report
 
